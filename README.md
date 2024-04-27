@@ -5,7 +5,7 @@
 2. National Computer Network Emergency Response Technical Team<br>
 3. School of Electronic and Computer Engineering, Peking University<br>
 4. School of Computer Science and Technology, Harbin Institute of Technology<br>
-5. School of Information and Communication Engineering, University of Electronic Science and Technology of China<br>
+5. School of Information and Communication Engineering, University of Electronic Science and Technology of China</h4><br>
 
 This repository contains the official source code for our paper:
 
