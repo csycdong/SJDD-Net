@@ -87,7 +87,7 @@ if __name__ == "__main__":
                         help='root path of the dataset (default: data)')
     parser.add_argument('--result_path', nargs='?', type=str, default='results',
                         help='path to save test results (default: results)')
-    parser.add_argument('--resume', nargs='?', type=str, default='weight/gp/best_model.pth',
+    parser.add_argument('--resume', nargs='?', type=str, default='weights/gp/best_model.pth',
                          help='path to previous saved model to restart from')
     args = parser.parse_args()
     eval(args)
